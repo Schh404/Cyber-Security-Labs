@@ -9,3 +9,6 @@ Offensive Security is breaking into computer systems, exploiting software bugs, 
 ![image alt](https://github.com/Schh404/Cyber-Security-Labs/blob/main/DirbCOm.png?raw=true)
   
   >> first part says the URL_BASE we scanned. It also shows the location of the wordlist file used by the tool which contains common page names that will be tested during the brute-force attack. In this case, the tool uses the default wordlist included with the tool, located at /usr/share/dirb/wordlists/common.txt.
+
+  >> Then copy and paste the generated possible url in your browser's address bar.
+  >> Keep chaacking. 
